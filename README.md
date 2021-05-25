@@ -28,9 +28,6 @@ Competition task: use an anonymized dataset containing over 50 columns to classi
 + Our team placed top 5 out 15 teams `Malav Dave`, `Lionel D'Silva`, & `Juma Hamdan`
 + Please find the results of the leaderboard here: [Leaderboard](https://www.kaggle.com/c/lewisdatathon2020/leaderboard)
 
-### Medium Blob Post
-+  [Medium](https://jumahamdan.medium.com)
-
 
 ## Licensing and Acknowledgements
 
